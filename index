@@ -19,6 +19,7 @@
     <article>
         <header class="article">
              <h1>My Article</h1>
+             <img src = "http://thumbs.dreamstime.com/z/green-robot-21599388.jpg" alt = "robot image" />
 
         </header>
     </article>
