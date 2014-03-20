@@ -65,8 +65,8 @@ footer {
 		width: 65%;
 	}
 	article img {
-	  width: 30%
-	  height: 30%
+	  width: 20%
+	  height: 20%
 	}
 	aside {
 		width: 28%;
