@@ -47,7 +47,7 @@ aside {
     border:1px solid #000;
 }
 aside li {
-    list-style: disc url('https://drive.google.com/uc?id=0B6Sg_ALpI1HFVDBlVEdsenV3ZHc');
+    list-style: disc url('http://thumbs.dreamstime.com/z/green-robot-21599388.jpg');
 }
 footer {
     clear:left;
